@@ -1,4 +1,4 @@
-- Hi, I’m Gabriel Ferreira Angelo. Go Developer at Mercado Libre and creator of [Partitura](partitura-ai.com).
+- Hi, I’m Gabriel Ferreira Angelo. Go Developer at Mercado Libre and creator of [Partitura](https://www.partitura-ai.com).
 - How to reach me: gabriel.feang@gmail.com
 - Pronouns: he/him
 - About me: I actually graduated in medicine, but acted as a physician for only a few months. Computer viruses are more interesting than human ones... I have loved coding since I was a kid, I think I was 10 when I did my first Game Development course on Adobe Flash, Newgrounds games opened a new world. 
